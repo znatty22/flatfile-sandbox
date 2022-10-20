@@ -1,0 +1,11 @@
+Location,Hash,Hash Algorithm,Size,File ID
+s3://dewrangle-dev-test/03ac7c74-c76d-46d8-8d3d-8c1a7ac2320f.Aligned.out.sorted.bam,5f917cf7af082f8a5b4c6a09708e8520,md5,84370493988, GF-1234
+s3://dewrangle-dev-test/0a5f2a31-e396-46cc-8265-6cb6da4a7b04.Aligned.out.sorted.bam,85477d19215bc8faea510dbcfe229f2e,md5,18945301109, GF-1234
+s3://dewrangle-dev-test/0aabf85c-e73b-43e9-817e-bcf8808fa19b.Aligned.out.sorted.bam,f5b93ffceb92c6356e7915338ad9c3fa,md5,16807968202, GF-1234
+s3://dewrangle-dev-test/0d1fcf6e-93eb-47d0-8b71-d4527c2da028.Aligned.out.sorted.bam,d0a3bc387ce40aad81413b7ff77d4c19,md5,14512105658, GF-1234
+s3://dewrangle-dev-test/0f3b8d3e-7f0c-4526-9f79-76bc28d244ee.Aligned.out.sorted.bam,e791631618a45adfb23afdbff92ede1a,md5,15137681707, GF-1234
+s3://dewrangle-dev-test/1319c84f-c437-45bb-a201-908c35b4b653.Aligned.out.sorted.bam,e0de45cfc01c2483e3b11ed33245e832,md5,14766168300, GF-1234
+s3://dewrangle-dev-test/145805ef-672e-4f55-bbfc-85093a1d5b2a.Aligned.out.sorted.bam,4850b58e80ff59ad28b178bdd2186dff,md5,27823057432, GF-1234
+s3://dewrangle-dev-test/1c8d2182-cfa2-49c8-9a5b-d9ec2dc3d6bc.Aligned.out.sorted.bam,b5652aceb82a09eb567f532032b09d7e,md5,16578833924, GF-1234
+s3://dewrangle-dev-test/1d6f9501-915c-4777-a17c-671c99ef68ca.Aligned.out.sorted.bam,c971db59b9e3c6750d1ba097196b021a,md5,17527358779, GF-1234
+s3://dewrangle-dev-test/2d6f9501-915c-4777-a17c-671c99ef68ca.Aligned.out.sorted.bam,2971db59b9e3c6750d1ba097196b021a,md5,27527358779, GF-1234
