@@ -1,5 +1,4 @@
 import type { NextPage } from "next";
-import { Flatfile } from "@flatfile/sdk";
 
 const employeesEmbedId = "11aa7745-9661-4f7d-a04a-c9b8baa15b94";
 const manifestEmbedId = "5b090352-0167-4a82-bab3-77572deee8de";
@@ -8,6 +7,7 @@ const embedId = manifestEmbedId;
 async function submitData(event: any) {
   event.preventDefault();
   console.log("Importing data...");
+  const { Flatfile } = await import("@flatfile/sdk");
 
   await Flatfile.requestDataFromUser({
     embedId,
